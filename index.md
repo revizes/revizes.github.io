@@ -1,5 +1,7 @@
 # First
 
+[Markdown link test](_posts/2019-05-26-Graph.md)
+
 ## Hello World
 
 ~~~cpp
