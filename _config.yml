@@ -1,4 +1,0 @@
-theme: minimal-mistakes-jekyll
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin  : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-locale                 : "ko-KR.UTF-8"
